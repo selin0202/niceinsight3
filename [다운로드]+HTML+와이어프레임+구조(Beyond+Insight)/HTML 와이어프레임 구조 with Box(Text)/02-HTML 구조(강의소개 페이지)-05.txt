@@ -1,0 +1,41 @@
+.class-detail-sidebar
+	.class-required-info
+		.class-detail-sidebar-wrap
+			.hash-tag-group
+			.badge-group
+				span.badge-class-required.focus
+				span.badge-class-required
+				span.badge-class-required.focus
+			.overview
+				h4
+				.class-review
+					span.stars
+						font-icon * 5
+					span.rating
+					span.trainee
+				.class-price
+					span.sale
+					span.price-current
+					span.price-prev
+				.class-installment
+					span.installment-price
+					span.installment-info
+		.class-detail-sidebar-wrap.group-main-action
+			button.btn-primary.btn-register
+			button.btn-primary.btn-cart
+		.class-detail-sidebar-wrap.group-sub-action
+			(button.btn-sidebar-badge > font-icon) * 3
+		.class-detail-sidebar-wrap.group-mentor-summary
+			.mentor-class-summary
+				.mentor-avatar 
+					img
+				ul.class-summary-list	
+					li * n
+		a.btn-mentor-follow
+		.class-detail-sidebar-wrap.group-inquire
+			a.btn-inquire
+	.class-detail-banner
+		a > img
+		
+		
+		

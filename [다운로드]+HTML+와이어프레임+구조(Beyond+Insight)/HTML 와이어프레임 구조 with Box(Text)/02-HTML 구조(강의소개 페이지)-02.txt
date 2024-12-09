@@ -1,0 +1,29 @@
+.class-detail-navigation
+	a * 5
+	
+article.class-introduce
+	.class-detail-header
+		h2
+		span
+	.class-detail-wrap	
+		h1 > b
+		p
+		.sub-wrap
+			img
+			h2
+			ul.class-introduce-feature > (li * n)
+			p
+	.class-detail-wrap
+		h3.sub-wrap-header
+		p
+		ul > (li * n)
+			.sub-wrap
+				img
+	.class-detail-wrap
+		h3.sub-wrap-header
+		p
+		ul > (li * n)
+		p
+		ul > (li * n)
+		
+		

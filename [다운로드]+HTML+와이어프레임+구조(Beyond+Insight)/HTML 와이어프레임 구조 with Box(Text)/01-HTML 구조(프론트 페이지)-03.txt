@@ -1,0 +1,66 @@
+section.focus-class
+	.focus-class-inner
+		.focus-class-content
+			.front-header
+				h2
+				a.btn-view-all
+			.focus-class-items
+				.focus-class-item
+					.thum
+						img
+						em.like
+						span.badge.discount
+					.desc
+						.mentor-avatar
+							img
+						.overview
+							h4
+							.class-info
+							.class-price
+								span.sale
+								s.price-prev
+								span.price-current
+							.class-review
+								span.stars
+									font-icon * 5
+								span.rating
+								span.trainee
+								
+								
+section.best-class
+	.best-class-inner
+		.best-class-content
+			.front-header
+				h2
+				a.btn-view-all
+			.best-class-wrap
+				.invite-banner
+				.best-class-items-outer
+					.best-class-items
+						.best-class-item
+							.thum
+								img
+							.overview
+								h4
+								.class-info
+								.class-price
+									span.sale
+									s.price-prev
+									span.price-current
+								
+								
+section.early-bird
+	.early-bird-inner
+		.early-bird-content
+			.countdown-wrap
+				[Jquery Plugin HTML]
+				span.early-bird-info
+			.early-bird-banner
+				.banner-about
+					h1 > span
+					h2.hash-tag
+				.banner-thum
+					img
+					
+					
+					

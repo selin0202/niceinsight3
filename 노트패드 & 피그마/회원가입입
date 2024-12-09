@@ -1,0 +1,20 @@
+section.singup
+	.member-register
+		.member-account
+			h1.login-slogan > em
+			img
+		.login-field
+			div
+				input[type=email]
+			div
+				input[type=password]
+				font-icon
+			div
+				input[type=password]
+				font-icon
+			button.btn-member-primary
+		.agreement
+			p
+			label > input[type=checkbox] , em
+		.login-member > a
+				

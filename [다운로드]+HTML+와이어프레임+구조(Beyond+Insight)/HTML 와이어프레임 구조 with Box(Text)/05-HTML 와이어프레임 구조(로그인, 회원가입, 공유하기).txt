@@ -1,0 +1,57 @@
+.member-login-overlay
+	.member-login
+		.member-account
+			h1.login-slogan > em
+		.login-field
+			div
+				input[type=email]
+			div
+				input[type=password]
+				font-icon
+		.join-member
+			a
+		.easy-login
+			a.btn-easy-login.kakao
+			a.btn-easy-login.facebook
+			a.btn-easy-login.apple
+			span.or
+			a.btn-easy-login.email
+		p.login-notice
+		button.btn-modal-close
+=========================================
+section.signup
+	.member-register
+		.member-account
+			h1.login-slogan > em
+			img
+		.login-field
+			div
+				input[type=email]
+			div
+				input[type=password]
+				font-icon
+			div
+				input[type=password]
+				font-icon	
+			button.btn-member-primary	
+		.agreement
+			p
+			label > input[type=checkbox], em
+		.login-member > a
+=========================================
+.class-share-overlay
+	.class-share
+		h2
+		.share-choice-items
+			.share-choice-item
+				font-icon, span
+			.share-choice-item
+				font-icon, span
+			.share-choice-item
+				font-icon, span
+			.share-choice-item.share-link
+				font-icon, span	
+				.copied-link
+		button.btn-modal-close
+	
+	

@@ -1,0 +1,43 @@
+.container.take-course
+	header
+		[same html sctructure]
+	section.take-course
+		.take-course-inner
+			.cart-wrap
+				h2.payment-headline
+				.cart-header
+					span
+						input[type=checkbox], em
+					button.btn-all-clear
+				.cart-items
+					.cart-item
+						.check-status
+							input[type=checkbox]
+						.thum
+							img
+						.cart-overview
+							.cart-overview-header
+								h4, button.btn-clear
+							.cart-overview-detail
+								.cart-overview-info
+									b.class-subject
+									span.mentor-info > em
+								.cart-overview-price
+									div
+										span.sale, s.price-prev
+										span.price-current
+			.payment 
+				.price-total-wrap
+					h2.pament-headline
+					.current-price
+					.origin-price
+					.discount-amount
+				.mobile-confirm-wrap
+					h2.payment-headline
+					div > input[type=tel], button.btn-request
+				.payment-method-wrap
+					h2.payment-headline
+					(div > label > input[type-radio], em, img) * 6
+				button.btn-payment-final
+				
+				

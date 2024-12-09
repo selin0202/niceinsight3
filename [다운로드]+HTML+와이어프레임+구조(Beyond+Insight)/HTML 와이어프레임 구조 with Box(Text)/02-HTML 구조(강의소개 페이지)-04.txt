@@ -1,0 +1,30 @@
+article.class-faq
+	.class-detail-header
+		[same html structure]
+	.class-detail-wrap
+		.faq-accordion
+			.faq-title > b
+			.faq-content
+
+
+article.class-mentor
+	.class-detail-header
+		[same html structure]
+	.class-detail-wrap
+		.mentor-profile-summary
+			.mentor-avatar
+				img
+			.mentor-slogan
+				h3
+				p
+			.mentor-class-button
+				(button.btn-mentor-profile > em) * 2
+		.mentor-profile-career
+			.mentor-profile-header
+				h4
+				span
+			.mentor-profile-history
+				h4
+				ul > (li * n)
+				
+				

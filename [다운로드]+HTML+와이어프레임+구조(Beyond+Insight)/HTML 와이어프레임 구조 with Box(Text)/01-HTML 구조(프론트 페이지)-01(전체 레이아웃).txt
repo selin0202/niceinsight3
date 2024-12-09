@@ -1,0 +1,23 @@
+.container.front
+	header
+		.header-inner
+	section.front-slider
+		[slider HTML structure]
+	section.category-shortcut
+		.category-shortcut-inner
+	section.focus-class
+		.focus-class-inner
+	section.best-class
+		.best-class-inner
+	section.early-bird
+		.early-bird-inner
+	section.blog
+		.blog-inner
+	section.slogan
+		.slogan-inner
+	section.tip-tech
+		.tip-tech-inner
+	footer
+		.footer-inner
+		
+		

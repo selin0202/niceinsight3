@@ -1,0 +1,70 @@
+section.blog
+	.blog-inner
+		.blog-content
+			.front-header
+				h2
+				a.btn-view-all
+			.blog-items
+				.blog-item
+					.thum
+						img
+					.desc
+						span.blog-sort
+						.blog-outline
+							h4
+							p
+						.blog-writer
+							.writer-avatar
+								img
+							.writer-info
+								span
+								.date-comment
+									span
+										font-icon
+									span
+										font-icon
+										
+section.slogan
+	.slogan-inner
+		.slogan-content
+			h1
+			span
+				em, em
+				
+				
+section.tip-tech
+	.tip-tech-inner
+		.tip-tech-content
+			.front-header
+				h2
+				a.btn-view-all
+			.tip-tech-wrap
+				.tip-tech-items
+					.tip-tech-item
+						.tip-tech-info
+							span.tip-tech-sort
+							h3
+							p
+						.thum
+							img
+			a.btn-tip-tech				
+							
+							
+footer
+	.footer-inner
+		.lnb-wrap
+			.footer-slogan
+				h2
+			.lnb
+				.link-item
+					.link-item-title
+					.link-item-content
+						a * n
+		.copyright-wrap
+			address
+				p * 2
+			.sns
+				(a > font-icon) * 2
+			
+			
+			

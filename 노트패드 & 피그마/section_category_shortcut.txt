@@ -1,0 +1,23 @@
+section.category-shortcut
+	.category-shortcut-inner
+		.category-shortcut-items
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+				
+				

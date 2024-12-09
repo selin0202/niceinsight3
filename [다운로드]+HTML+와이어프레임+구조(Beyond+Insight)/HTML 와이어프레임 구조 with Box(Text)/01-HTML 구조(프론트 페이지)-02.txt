@@ -1,0 +1,89 @@
+header
+	.header-inner
+		.logo-search
+			.logo
+				a > img
+			.search
+				input[type=search], font-icon
+			.user-alarm
+				span.cart
+					font-icon, em
+				span.alarm
+					font-icon, em
+				span.avatar
+					img
+		.gnb
+			a * 6
+	.mega-navi
+		.mega-navi-inner
+			.mega-navi-item
+				b
+				.mega-navi-item-wrap
+					a * n
+				b
+				.mega-navi-item-wrap
+					a * n
+				b
+				.mega-navi-item-wrap
+					a * n	
+				b
+				.mega-navi-item-wrap
+					a * n
+				b
+				.mega-navi-item-wrap
+					a * n
+				b
+				.mega-navi-item-wrap
+					a * n	
+				
+section.front-slider
+	.front-slider-items
+		.front-slider-item
+			.front-slider-item-wrap
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+		.front-slider-item
+			.front-slider-item-wrap
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+		.front-slider-item
+			.front-slider-item-wrap
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+
+section.category-shortcut
+	.category-shortcut-inner
+		.category-shortcut-items
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+			a.category-shortcut-item
+				em > font-icon
+				span
+				
+				
+				

@@ -1,0 +1,62 @@
+header
+	.header_inner
+		.logo_seach
+			.logo
+				a > img
+			.search
+				input[type=search]
+			.user_alarm
+				span.cart
+					font-icon , em
+				
+				span.alarm
+					font-icon , em
+				span.avatar
+					img
+		.gnb
+			a * 60
+	.mega_navi
+		.mega_navi_inner
+			.maga_navi_item
+				b, a * n
+			.maga_navi_item
+				b, a * n
+			.maga_navi_item
+				b, a * n
+			.maga_navi_item
+				b, a * n
+			.maga_navi_item
+				b, a * n
+
+
+section.front_slider
+	.front_slider_items
+		.front_slider_item
+			.front_slider_item_inner
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+		.front_slider_item
+			.front_slider_item_inner
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+		.front_slider_item
+			.front_slider_item_inner
+				.desc
+					b
+					h1
+					span
+				.pic
+					img
+					
+					
+				
+			
+				

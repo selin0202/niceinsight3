@@ -1,0 +1,4 @@
+section.blog
+ .blog-inner
+  .blog-content
+		

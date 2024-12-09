@@ -1,0 +1,44 @@
+/* Font Icon CDN */
+@import url("https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css");
+
+/* Font Family CDN */
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@font-face {
+    font-family: 'SpoqaHanSansNeo-Regular';
+    src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2108@1.1/SpoqaHanSansNeo-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+/* Font Family */
+--primary-kr: 'Noto Sans KR', sans-serif;
+--secondary-kr: 'SpoqaHanSansNeo-Regular';
+--primary-eng: 'Raleway', sans-serif;
+
+/* Text Color */
+--dark-black: #333333;
+--dim-black: #555555;
+--silver-black: #777777;
+--light-black: #999999;
+
+--dark-gray: #BDBDBD;
+--dim-gray: #DDDDDD;
+--silver-gray: #EEEEEE;
+--light-gray: #F5F5F5;
+--cloudy-gray: #F9F9F9;
+
+/* Object Color */
+--royalblue: #006BE5;
+--orangered: #FD5631;
+--orange: #FFD912;
+--crimson: #ED2040;
+--forestgreen: #2ECC71;
+--turquoise: #00D2D3;
+--tomato: #FF4C79;
+--white: #FFFFFF;
+--black: #000000;
+
+

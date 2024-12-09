@@ -1,0 +1,32 @@
+.container.class-detail
+	
+	header
+		[same html structure]
+		
+	section.class-detail-image
+		.class-detail-image-inner
+			.heading
+				h1
+				p
+			.cover-image
+				img
+				
+	seciton.class-detail-full	
+		.class-detail-full-inner
+			.class-detail-full-content
+				.class-detail-info
+					.class-detail-navigation
+					article.class-introduce
+					article.class-curriculum
+					article.class-review
+					article.class-faq
+					article.class-mentor
+				.class-detail-sidebar
+					.class-required-info
+					.class-detail-banner
+					
+	footer
+		[same html structure]
+					
+					
+					

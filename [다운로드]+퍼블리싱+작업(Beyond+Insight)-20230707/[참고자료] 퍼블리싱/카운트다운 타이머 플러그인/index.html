@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>Document</title>
+  <!-- jQuery CDN -->
+  <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+  <!-- The Final Countdown -->
+  <script src="the-final-countdown/jquery.countdown.min.js"></script>
+  <style>
+    /* Google Web Font */
+    @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Raleway:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+    * {
+      font-family: 'Raleway', sans-serif;
+    }
+  </style>
+</head>
+<body>
+ 
+  <div id="early-bird-discount"></div>
+  
+  <script type="text/javascript">
+    /* The Final Countdown */
+    $("#early-bird-discount")
+    .countdown("2023/06/01", function(event) {
+      $(this).text(
+        event.strftime('%D days %H:%M:%S')
+      );
+    });
+  </script>
+  
+</body>
+</html>

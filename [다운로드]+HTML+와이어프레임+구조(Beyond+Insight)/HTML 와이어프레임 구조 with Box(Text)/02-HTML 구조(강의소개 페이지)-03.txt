@@ -1,0 +1,55 @@
+article.class-curriculum
+	.class-detail-header
+		[same html structure]
+	.class-detail-wrap
+		.curriculum-basic-info.header
+			span * 2
+		.curriculum-accordion
+			.accordion-item-wrap
+				.chapter-title
+					span.chapter-subject
+					span.chapter-hour
+				.chapter-content
+					.chapter-content-class
+						.class-subjuct
+							font-icon
+						.class-hour
+							span.curriculum-badge.free
+							span.class-hour
+		.curriculum-basic-info.footer
+		    
+		
+article.class-review
+	.class-detail-header
+		[same html structure]
+	.class-detail-wrap
+		.review-rating-group
+			.review-stars-rating
+				.stars-rating-count
+					span.review-stars
+						font-icon * 5
+					span.review-rating	
+					span.review-count
+				.review-diagram-group
+					.review-diagram
+						b, .review-diagram-bar
+			.review-focus-group	
+				.review-focus
+					span > font-icon
+					div > b
+		.review-user-comment-group
+			.review-user-comment
+				.user-avatar
+					img
+				.user-comment
+					.user-name-date
+						span.user-name
+						span.write-date
+					span.review-stars
+						font-icon * 5
+					p	
+		a.btn-review-more			
+		!
+		
+		
+		

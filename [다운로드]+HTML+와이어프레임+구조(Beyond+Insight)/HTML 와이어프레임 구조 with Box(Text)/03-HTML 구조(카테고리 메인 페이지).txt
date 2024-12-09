@@ -1,0 +1,47 @@
+.container.category
+
+	header
+		[same html structure]
+		
+	section.category-class
+		.category-class-inner
+			.category-class-main
+				h2, img
+			.category-class-detail
+				h3
+				.category-shortcut-btn-group
+					button.btn-shortcut * 8
+			.category-class-sort
+				select
+					option * n
+				button.btn-sort	
+				button.btn-event	
+			.category-class-wrap
+				.focus-class-items
+					.focus-class-item
+						.thum
+							img
+							em.like
+							span.badge.discount
+						.desc
+							.mentor-avatar
+								img
+							.overview
+								h4
+								.class-info
+								.class-price
+									span.sale
+									span.price-prev
+									span.price-current
+								.class-reivew
+									span.stars
+										font-icon * 5
+									span.rating
+									span.trainee
+			.paging
+				button.prev-list
+				.btn-paging-group
+					button.btn-paging * 5
+				button.next-list
+			
+			
